@@ -1,0 +1,15 @@
+Turntable: Technics SL-QL15
+Cartridge/Stylus: AT85EP Cartridge / ATN3472VL Stylus (6/75µm Vivid Line diamond tip)
+Preamp: Digital using FabFilter Pro-Q 4, Natural Phase, IEC RIAA Curve
+Interface: Focusrite Scarlett 2i2 4th Gen @ 96kHz
+
+Stylus cleaned with melamine sponge
+Record cleaned with microfiber cloth & Discwasher brush
+
+Captured with Adobe Audition 2025 at 96kHz/32-bit.
+Channels balanced with histogram as reference (+0.9dB on right channel).
+Manually de-clicked in Audition, denoised by 16dB in iZotope RX 11.
+Exported to Audacity as 96kHz/24-bit (no dithering) Level 8 FLAC, normalized to 0dBFS, split and exported as individual tracks.
+Metadata added with mp3tag.
+
+Ripped by deltailluminati
